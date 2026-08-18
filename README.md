@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Javier Villaseñor 👋
 
-<!--
-**javier-villasenor/javier-villasenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-year B.Sc. Telecommunications Engineering student (Telematics) at UPM.**
 
-Here are some ideas to get you started:
+Rooted in low-level network architecture, my focus bridges infrastructure automation, cloud-native environments, and full-stack development. I build tools to orchestrate systems, secure networks, and modernize applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Focus Areas
+
+* **Cloud & Virtualization:** Kubernetes (GKE), Docker, KVM/QEMU, libvirt, Open vSwitch
+* **Backend & Automation:** Python (IaC), Java (Spring Boot), Node.js
+* **Frontend:** React, Next.js, TypeScript
+* **Security:** Palo Alto NGFW (Zero Trust), PKI, Offensive Security (CTF)
+
+---
+*Driven by practical engineering and continuous iteration.*
