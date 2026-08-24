@@ -1,6 +1,4 @@
-![Javier Villaseñor Barrios Banner](banner.png)
-
-# Hi, I'm Javier Villaseñor 👋
+![Javier Villaseñor Barrios Banner](bannerLong.png)
 
 **Final-year B.Sc. Telecommunications Engineering student (Telematics) at UPM.**
 
