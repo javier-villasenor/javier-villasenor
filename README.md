@@ -1,4 +1,4 @@
-![Javier Villaseñor Barrios Banner](banner.png)
+![Javier Villaseñor Barrios Banner](bannerWelcomeName.png)
 
 **Final-year B.Sc. Telecommunications Engineering student (Telematics) at UPM.**
 
